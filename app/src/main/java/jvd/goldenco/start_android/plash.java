@@ -14,7 +14,6 @@ public class plash extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_plash);
         a=20;
-        b=30;
 
 
     }
